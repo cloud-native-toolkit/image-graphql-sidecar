@@ -1,0 +1,1 @@
+# GraphQL sidecar container image
